@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaurabhUpashe](https://github.com/SaurabhUpashe)
 
-- 💬 Ask me about **Java,React,**
+- 💬 Ask me about **Java,React**
 
 - 📫 How to reach me **saurabhupashe@gmail.com**
 
