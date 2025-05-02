@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Upashe</h1>
 <h3 align="center">A passionate full Stack Java Developer</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" align="right" 
+     width="400" 
+     height="250" 
+     style="margin-top: 100px; margin-left: 200px;" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhupashe&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhupashe" /> </p>
 
